@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923379295738",
+    "project_id": "my-wallpaper-a887a",
+    "storage_bucket": "my-wallpaper-a887a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923379295738:android:40de19267e906a92c4b043",
+        "android_client_info": {
+          "package_name": "com.rajapps.mywalllpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923379295738-m3v479g9s2m1qltep7ghjc6one0i7n7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXdgFgHDNLIV1spfrkjoTC0dkEvQDy3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923379295738-m3v479g9s2m1qltep7ghjc6one0i7n7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
